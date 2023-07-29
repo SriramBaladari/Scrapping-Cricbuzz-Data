@@ -8,7 +8,6 @@ import sys
 import time
 from bs4 import BeautifulSoup
 import requests
-import pandas as pd
 
 # The page may or may not grant access, so we need to use try and except block to handle that
 try:
